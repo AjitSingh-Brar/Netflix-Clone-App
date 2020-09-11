@@ -1,3 +1,10 @@
+## NETFLIX Clone App
+
+This project is just a clone of NETFLIX which applies only Front-End development of the Application.
+The application suppports React-Youtube and Movie-Trailer through the npm packages.
+
+Check out the Front-End application: https://tech-movies.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
